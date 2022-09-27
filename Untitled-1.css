@@ -1,0 +1,164 @@
+#body{
+    background-color:black;
+    margin:5%;
+}
+
+/* header style */
+#header{
+    width:100%;
+    height:150px;
+    background-image:url(bg.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#h{
+    opacity:50%;
+}
+
+#im{
+    float: right; padding-top:3%; width:50px;
+    float: right; padding-top:3%; width:50px;
+    float: right; padding-top:3%; width:50px;
+}
+
+/* nav style */
+#na{
+    background-color:black;
+    height:40px;
+    border-top:1px solid gray;
+}
+
+#a{
+    font-size:15px; 
+    color:gray;
+    text-decoration: none;
+}
+
+#a:hover{
+    color:white;
+}
+
+#div{
+    width:100px;
+    height:30px; 
+    float:left;
+    padding-top:10px;
+    text-align: center;
+    
+    
+}
+
+#div:hover{
+    background-color:#3498DB ;
+    background-position: center;
+    width:100px;
+    height:30px; 
+}
+
+#divm {
+    background-color:gainsboro ;
+}
+
+/* main style */
+#ma{
+    width:100%;
+    height:1300px; 
+    
+}
+
+#im2{
+    width:98%;
+    margin:10px;
+}
+
+/* page 1 style */
+/* main div style 1 */
+#di1{
+    width:70%;
+    height:800px;
+    float: left;
+}
+
+#we{
+    color:#3498DB ;
+    margin:20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+hr{
+    width:96%;
+}
+
+#pr{
+    text-align:justify;
+    margin:20px;
+    font-size:20px;
+}
+
+#ul{
+    margin-left:30px;
+    font-size:20px;
+}
+/* photo div style 1*/
+#d1{
+    width:370px;
+    height:220px; 
+    margin:20px;
+    border:3px solid white;
+    float: left;
+}
+
+#i1{
+    width:350px; height:200px; margin:10px;
+}
+
+/* photo div style 2*/
+#d2{
+    width:370px; 
+    height:220px; 
+    margin:20px;
+    border:3px solid white;
+    float: right;
+}
+
+#i2{
+    width:350px; height:200px; margin:10px;
+}
+
+/* main div style 2 */
+#id2{
+    width:30%;
+    height: 800px;
+    float: right;
+}
+
+#we2{
+    color:#3498DB ;
+     margin:20px; 
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* sections style */
+#la1{
+    color: red; margin:20px;
+}
+
+#la2{
+    color:blue; margin:20px;
+}
+
+/* page 2 style */
+#pr2{
+    text-align: center;
+}
+
+#im3{
+    box-shadow:black 5px 0px 5px ; margin:15px;
+}
+
+/* footer style */
+#fo{
+    height:100px;
+}
+
